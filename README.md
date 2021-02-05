@@ -1,1 +1,3 @@
-Here i will upload Python projects for newbies.
+# Info
+
+* Here i will upload simple python projects
